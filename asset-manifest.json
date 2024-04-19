@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weatherappl/static/css/main.74316d21.css",
+    "main.js": "/weatherappl/static/js/main.054805d3.js",
+    "index.html": "/weatherappl/index.html",
+    "main.74316d21.css.map": "/weatherappl/static/css/main.74316d21.css.map",
+    "main.054805d3.js.map": "/weatherappl/static/js/main.054805d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74316d21.css",
+    "static/js/main.054805d3.js"
+  ]
+}
